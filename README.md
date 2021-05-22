@@ -1,1 +1,1 @@
-Sample for sending by messages in Amazon SQS
+Sample for sending messages in Amazon SQS
