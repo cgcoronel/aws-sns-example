@@ -1,0 +1,11 @@
+{
+  "AWS": {
+    "region": "us-east-1"
+  },
+  "max_resent_message": 5,
+  "sns": [
+    {
+      "arn": "arn:aws:sns:us-east-1:xxxxxxxxxxxxxxx:PUSH_NOTIFICATIONS"
+    }
+  ]
+}
